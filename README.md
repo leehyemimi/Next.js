@@ -1,2 +1,2 @@
 # Next.js
-udemy
+udemy 강의
